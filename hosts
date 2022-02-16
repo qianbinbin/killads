@@ -1288,7 +1288,6 @@
 127.0.0.1 360kaixin.com
 127.0.0.1 360popads.com
 127.0.0.1 360protected.com
-127.0.0.1 down.360safe.com
 127.0.0.1 update.360safe.com
 127.0.0.1 ini.update.360safe.com
 127.0.0.1 inst.360safe.com
@@ -9807,7 +9806,6 @@
 127.0.0.1 bildirt.com
 127.0.0.1 dataflow.biliapi.com
 127.0.0.1 web-player-tracker.biliapi.net
-127.0.0.1 live-trace.bilibili.com
 127.0.0.1 miniapp.bilibili.com
 127.0.0.1 cm.bilibili.com
 127.0.0.1 line1-log.biligame.net
@@ -15892,6 +15890,7 @@
 127.0.0.1 dfanalytics.dealerfire.com
 127.0.0.1 ref.dealerinspire.com
 127.0.0.1 yh6u.dealeusedevoyages.com
+127.0.0.1 analytics.dealmoon.com
 127.0.0.1 dealspure.com
 127.0.0.1 dealtsowbite.com
 127.0.0.1 debadu.com
@@ -26840,7 +26839,6 @@
 127.0.0.1 ioxiyaff.xyz
 127.0.0.1 ip-label.net
 127.0.0.1 observer.ip-label.net
-127.0.0.1 ip-tracker.org
 127.0.0.1 ip2c.org
 127.0.0.1 ip2map.com
 127.0.0.1 ip2phrase.com
@@ -30866,7 +30864,6 @@
 127.0.0.1 ssw.live.com
 127.0.0.1 watson.live.com
 127.0.0.1 live4sport.net
-127.0.0.1 live800.com
 127.0.0.1 liveadexchanger.com
 127.0.0.1 liveadoptimizer.com
 127.0.0.1 liveadserver.net
@@ -40964,7 +40961,6 @@
 127.0.0.1 sec.video.qq.com
 127.0.0.1 sngapm.qq.com
 127.0.0.1 sngmta.qq.com
-127.0.0.1 soup.v.qq.com
 127.0.0.1 stat.y.qq.com
 127.0.0.1 statistic.qzone.qq.com
 127.0.0.1 strategy.beacon.qq.com
@@ -45602,7 +45598,6 @@
 127.0.0.1 gecko-hl.snssdk.com
 127.0.0.1 gecko-lq.snssdk.com
 127.0.0.1 ic.snssdk.com
-127.0.0.1 is.snssdk.com
 127.0.0.1 temai.snssdk.com
 127.0.0.1 toutiao-frontier.snssdk.com
 127.0.0.1 xlog.snssdk.com
