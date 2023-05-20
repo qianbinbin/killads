@@ -9,17 +9,19 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Do generating
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate
+        id: generate
         run: |
-          ./generate-hosts.sh >.hosts
-          if [ ! -s .hosts ] || cmp -s .hosts hosts; then
-            rm .hosts
-            exit
-          fi
-          mv .hosts hosts
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "Generate hosts"
-          git push
+          d=$(date -u)
+          ./generate-hosts.sh >hosts
+          [ -z "$(git status -s)" ] && exit
+          echo "DATE=$d" >>"$GITHUB_OUTPUT"
+
+      - name: Update
+        if: ${{ steps.generate.outputs.DATE != '' }}
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: ${{ steps.generate.outputs.DATE }}
