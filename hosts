@@ -34947,8 +34947,6 @@
 127.0.0.1 connect.facebook.com
 127.0.0.1 graph-fallback.facebook.com
 127.0.0.1 mqtt-mini.facebook.com
-127.0.0.1 star.c10r.facebook.com
-127.0.0.1 star.fallback.c10r.facebook.com
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 z-m-graph.facebook.com
 127.0.0.1 connect.facebook.net
@@ -41841,7 +41839,6 @@
 127.0.0.1 gvkqpogjqvni.com
 127.0.0.1 gvkzvgm.com
 127.0.0.1 gvmojhugkiud.com
-127.0.0.1 gvt1-cn.com
 127.0.0.1 gvyyhjyyfdgxij.xyz
 127.0.0.1 gvzsrqp.com
 127.0.0.1 gw-dv.vip
