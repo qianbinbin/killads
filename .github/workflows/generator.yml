@@ -22,6 +22,6 @@ jobs:
 
       - name: Update
         if: ${{ steps.generate.outputs.DATE != '' }}
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: ${{ steps.generate.outputs.DATE }}
