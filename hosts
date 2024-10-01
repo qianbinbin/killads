@@ -70588,7 +70588,6 @@
 127.0.0.1 app.payon.mn
 127.0.0.1 epl.paypal-communication.com
 127.0.0.1 sstats.paypal-metrics.com
-127.0.0.1 c.paypal.com
 127.0.0.1 data.news.paypal.com
 127.0.0.1 data.service.paypal.com
 127.0.0.1 i.paypal.com
