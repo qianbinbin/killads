@@ -536,6 +536,7 @@
 127.0.0.1 qipt.1632j6.cn
 127.0.0.1 www.163ren.com
 127.0.0.1 ac.dun.163yun.com
+127.0.0.1 ye.dun.163yun.com
 127.0.0.1 165tchuang.com
 127.0.0.1 tr.newsletter.1664france.fr
 127.0.0.1 166br.com
@@ -59229,6 +59230,9 @@
 127.0.0.1 l.gm.mob.com
 127.0.0.1 m.data.mob.com
 127.0.0.1 sdk.guard.mob.com
+127.0.0.1 cache-verify.mob.com
+127.0.0.1 cdn-api-verify.mob.com
+127.0.0.1 log-verify.mob.com
 127.0.0.1 mob1ledev1ces.com
 127.0.0.1 a8cv.mobabiji.jp
 127.0.0.1 mobaders.com
@@ -72257,7 +72261,6 @@
 127.0.0.1 c2.l.qq.com
 127.0.0.1 canvas.gdt.qq.com
 127.0.0.1 cb.l.qq.com
-127.0.0.1 cc.map.qq.com
 127.0.0.1 cm.e.qq.com
 127.0.0.1 cm.l.qq.com
 127.0.0.1 configsvr.msf.3g.qq.com
