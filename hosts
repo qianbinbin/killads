@@ -86938,6 +86938,7 @@
 127.0.0.1 umeng.com
 127.0.0.1 www.umeng.com
 127.0.0.1 alogs.umeng.com
+127.0.0.1 utoken.umeng.com
 127.0.0.1 cnlogs.umengcloud.com
 127.0.0.1 msg.umengcloud.com
 127.0.0.1 ulogs.umengcloud.com
@@ -94831,6 +94832,11 @@
 127.0.0.1 yezilm.com
 127.0.0.1 www.yezilm.com
 127.0.0.1 baby.yf898.com
+127.0.0.1 yfanads.cn
+127.0.0.1 yfanads.com
+127.0.0.1 adx-data.yfanads.com
+127.0.0.1 api.yfanads.com
+127.0.0.1 tracker.yfanads.com
 127.0.0.1 e.yfano.com
 127.0.0.1 m.yfano.com
 127.0.0.1 yfaqgk.xyz
