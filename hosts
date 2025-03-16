@@ -10696,6 +10696,7 @@
 127.0.0.1 adashx.ut.amap.com
 127.0.0.1 amap-aos-info-nogw.amap.com
 127.0.0.1 v6-adashx.ut.amap.com
+127.0.0.1 h-adashx.ut.amap.com
 127.0.0.1 amarceusan.com
 127.0.0.1 amarfa.ir
 127.0.0.1 ablinks.info.amaro.com
@@ -84901,6 +84902,10 @@
 127.0.0.1 wmedia-track.uc.cn
 127.0.0.1 coral-task.uc.cn
 127.0.0.1 applogios.uc.cn
+127.0.0.1 applog-perf.uc.cn
+127.0.0.1 adashx.ut.uc.cn
+127.0.0.1 h-adashx.ut.uc.cn
+127.0.0.1 s-adashx.ut.uc.cn
 127.0.0.1 gm.uc003.com
 127.0.0.1 u.uc123.com
 127.0.0.1 uc123.com
