@@ -57339,7 +57339,6 @@
 127.0.0.1 rabbit.tg.meitu.com
 127.0.0.1 xiuxiu.android.dl.meitu.com
 127.0.0.1 report.meituan.com
-127.0.0.1 analytics.meituan.net
 127.0.0.1 data-sdk-uuid-log.d.meituan.net
 127.0.0.1 dreport.meituan.net
 127.0.0.1 babel-statistics-android.dreport.meituan.net
